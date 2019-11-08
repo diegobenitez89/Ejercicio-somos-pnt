@@ -1,4 +1,4 @@
-Ejercicio Escuelita Somos PNT
+# Ejercicio Escuelita Somos PNT
 
 
 Imaginemos un supermercado de barrio.
